@@ -1,4 +1,4 @@
-baseULR = "https://miriam-gold.com"
+# baseURL = "https://miriamgold.com"
 # relativeURLs = true
 title = "Miriam Gold"
 theme = "academimal"
