@@ -1,5 +1,7 @@
-[Current reason I'm behind on everything](pasha.jpg)
+<!-- [Current reason I'm behind on everything](pasha.jpg) -->
 
-[Fearless Sidekick](muddypaws.jpg) - Kirby passed in Aug 2016
+<!-- [Fearless Sidekick](muddypaws.jpg) - Kirby passed in Aug 2016 -->
 
-**Website**: I am grateful to [Xinyue Lin](https://xinyue-lin.com/) for building my website. Please feel welcome to use and re-purpose the code for the website, which you can find at my [GitHub repository](https://github.com/gautamrao/gautamrao.github.io). 
+**Predoc Advice**: An opinionated [guide](/pdf/rp_orientation_2024_gold_coding.pdf) to writing code for your PI and your future self.
+
+**Website**: This website is based on Gautam Rao's code, generously shared [here](https://github.com/gautamrao/gautamrao.github.io).
